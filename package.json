@@ -1,0 +1,15 @@
+{
+  "name": "static_my_site",
+  "version": "1.0.0",
+  "description": "My Static Personal Site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Narendra Korade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.15.0"
+  }
+}
